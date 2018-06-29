@@ -1,2 +1,2 @@
 サルでもわかるGitコマンド
-plus
+plus alpha
